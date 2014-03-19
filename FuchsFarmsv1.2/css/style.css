@@ -1,0 +1,42 @@
+.container {
+    background-color: #087621;
+}
+.jumbotron{
+    margin-top: 20px;
+    background-color: #35c015;
+    color: #000;
+}
+body{
+    
+    background-color:#c3dbeb;
+}
+#tableheaders{
+    
+    color: #d2de7a;
+}
+h1{
+    font-weight: bold;
+    color: #000;
+}
+.carousel-caption{
+    font-weight: :bold;
+    font-size: 30px;
+}
+#bs-example-navbar-collapse-1{
+    
+    background-color: #35c015;
+    color:#360909;
+}
+.carousel-inner,img{
+   width: 1140px;
+  height: 300px;
+  max-height: 300px;
+    
+    
+}
+
+.mapCanvas{
+    width: 100px;
+    height: 100px;
+    
+}

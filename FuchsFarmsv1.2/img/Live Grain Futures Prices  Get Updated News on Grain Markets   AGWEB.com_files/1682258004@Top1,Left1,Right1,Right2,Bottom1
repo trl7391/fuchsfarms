@@ -1,0 +1,62 @@
+function OAS_RICH(position) {
+if (position == 'Bottom1') {
+document.write ('<SCRIPT language=');
+document.write ("'");
+document.write ('JavaScript1.1');
+document.write ("'");
+document.write (' SRC="http://ad.doubleclick.net/adj/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498767;sz=728x90;click0=http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/213900656/Bottom1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BLB_728x90_0214.html/4e34613771564c6f546b454141375961?;ord=213900656?">\n');
+document.write ('</SCRIPT>\n');
+document.write ('<NOSCRIPT>\n');
+document.write ('<A HREF="http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/213900656/Bottom1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BLB_728x90_0214.html/4e34613771564c6f546b454141375961?http://ad.doubleclick.net/jump/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498767;sz=728x90;ord=213900656?">\n');
+document.write ('<IMG SRC="http://ad.doubleclick.net/ad/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498767;sz=728x90;ord=213900656?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement"></A>\n');
+document.write ('</NOSCRIPT><IMG SRC="http://oasc14008.247realmedia.com/5/agweb.com/cashgrainbids/L23/213900656/Bottom1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BLB_728x90_0214.html/4e34613771564c6f546b454141375961?_RM_EMPTY_&" style="display:none;" alt="">');
+}
+if (position == 'Left1') {
+document.write ('<SCRIPT language=');
+document.write ("'");
+document.write ('JavaScript1.1');
+document.write ("'");
+document.write (' SRC="http://ad.doubleclick.net/adj/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106499129;sz=160x600;click0=http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/568495248/Left1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_Twr_160x600_0214.html/4e34613771564c6f546b454141375961?;ord=568495248?">\n');
+document.write ('</SCRIPT>\n');
+document.write ('<NOSCRIPT>\n');
+document.write ('<A HREF="http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/568495248/Left1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_Twr_160x600_0214.html/4e34613771564c6f546b454141375961?http://ad.doubleclick.net/jump/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106499129;sz=160x600;ord=568495248?">\n');
+document.write ('<IMG SRC="http://ad.doubleclick.net/ad/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106499129;sz=160x600;ord=568495248?" BORDER=0 WIDTH=160 HEIGHT=600 ALT="Advertisement"></A>\n');
+document.write ('</NOSCRIPT><IMG SRC="http://oasc14008.247realmedia.com/5/agweb.com/cashgrainbids/L23/568495248/Left1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_Twr_160x600_0214.html/4e34613771564c6f546b454141375961?_RM_EMPTY_&" style="display:none;" alt="">');
+}
+if (position == 'Right1') {
+document.write ('<SCRIPT language=');
+document.write ("'");
+document.write ('JavaScript1.1');
+document.write ("'");
+document.write (' SRC="http://ad.doubleclick.net/adj/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106499126;sz=300x250;click0=http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/97323770/Right1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BB1_300x250_0214.html/4e34613771564c6f546b454141375961?;ord=97323770?">\n');
+document.write ('</SCRIPT>\n');
+document.write ('<NOSCRIPT>\n');
+document.write ('<A HREF="http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/97323770/Right1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BB1_300x250_0214.html/4e34613771564c6f546b454141375961?http://ad.doubleclick.net/jump/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106499126;sz=300x250;ord=97323770?">\n');
+document.write ('<IMG SRC="http://ad.doubleclick.net/ad/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106499126;sz=300x250;ord=97323770?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A>\n');
+document.write ('</NOSCRIPT><IMG SRC="http://oasc14008.247realmedia.com/5/agweb.com/cashgrainbids/L23/97323770/Right1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BB1_300x250_0214.html/4e34613771564c6f546b454141375961?_RM_EMPTY_&" style="display:none;" alt="">');
+}
+if (position == 'Right2') {
+document.write ('<SCRIPT language=');
+document.write ("'");
+document.write ('JavaScript1.1');
+document.write ("'");
+document.write (' SRC="http://ad.doubleclick.net/adj/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498766;sz=300x250;click0=http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/1418988334/Right2/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BB2_300x250_0214.html/4e34613771564c6f546b454141375961?;ord=1418988334?">\n');
+document.write ('</SCRIPT>\n');
+document.write ('<NOSCRIPT>\n');
+document.write ('<A HREF="http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/1418988334/Right2/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BB2_300x250_0214.html/4e34613771564c6f546b454141375961?http://ad.doubleclick.net/jump/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498766;sz=300x250;ord=1418988334?">\n');
+document.write ('<IMG SRC="http://ad.doubleclick.net/ad/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498766;sz=300x250;ord=1418988334?" BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A>\n');
+document.write ('</NOSCRIPT><IMG SRC="http://oasc14008.247realmedia.com/5/agweb.com/cashgrainbids/L23/1418988334/Right2/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_BB2_300x250_0214.html/4e34613771564c6f546b454141375961?_RM_EMPTY_&" style="display:none;" alt="">');
+}
+if (position == 'Top1') {
+document.write ('<SCRIPT language=');
+document.write ("'");
+document.write ('JavaScript1.1');
+document.write ("'");
+document.write (' SRC="http://ad.doubleclick.net/adj/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498771;sz=728x90;click0=http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/52011057/Top1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_TLB_728x90_0214.html/4e34613771564c6f546b454141375961?;ord=52011057?">\n');
+document.write ('</SCRIPT>\n');
+document.write ('<NOSCRIPT>\n');
+document.write ('<A HREF="http://oasc14008.247realmedia.com/RealMedia/ads/click_lx.ads/agweb.com/cashgrainbids/L23/52011057/Top1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_TLB_728x90_0214.html/4e34613771564c6f546b454141375961?http://ad.doubleclick.net/jump/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498771;sz=728x90;ord=52011057?">\n');
+document.write ('<IMG SRC="http://ad.doubleclick.net/ad/N30303.716FARMJOURNALMEDIAAGWEB/B8011799.106498771;sz=728x90;ord=52011057?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement"></A>\n');
+document.write ('</NOSCRIPT><IMG SRC="http://oasc14008.247realmedia.com/5/agweb.com/cashgrainbids/L23/52011057/Top1/Agweb/19575_Bayer_CGB_Sponsorship_2014/16018_Bayer_CGB_TLB_728x90_0214.html/4e34613771564c6f546b454141375961?_RM_EMPTY_&" style="display:none;" alt="">');
+}
+}
